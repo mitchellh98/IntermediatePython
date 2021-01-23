@@ -1,2 +1,1 @@
-Python cool not
-False True
+This Repositiory contains my final code for last semesters python assignment.
